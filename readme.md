@@ -3,6 +3,9 @@
     #### Description:
     Task Manager that lets you create tasks, view tasks, delete tasks and send you an email notification when a task is created, deleted or due.
 
+## Screenshot
+<img src="https://github.com/David-Okello/CS50P-Final-Project/blob/main/Screenshot.png" />
+
 ## Overview
 
 Your Desktop Reminders is a simple desktop application that allows you to manage your tasks efficiently. It provides features such as creating, viewing, and deleting tasks, along with email notifications for task updates. The project is organized into two main files:
