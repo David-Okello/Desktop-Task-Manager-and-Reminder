@@ -1,5 +1,5 @@
 # Your Desktop Reminders
-    #### Video Demo:  https://youtu.be/SKeZ45Uca1c
+    #### Video Demo:  removed
     #### Description:
     Task Manager that lets you create tasks, view tasks, delete tasks and send you an email notification when a task is created, deleted or due.
 
